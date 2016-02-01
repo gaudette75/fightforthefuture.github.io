@@ -1,0 +1,10 @@
+User-agent: *
+
+Allow: *
+
+Disallow: /404Disallow: /unsubscribeDisallow: /unsubscribedDisallow: /thanks
+
+
+
+Sitemap: https://www.fightforthefuture.org/sitemap.xml
+
